@@ -7,7 +7,7 @@
 
 ## 1. Game Details
 
-| | |
+| Detail | Info |
 |---|---|
 | **Developer** | RibCage Games |
 | **Publisher** | Iphigames IKE (PS5 listing) |
@@ -26,16 +26,19 @@
 A rhythm roguelite: you fight through short runs, then return to a village hub where gifts and tokens buy permanent unlocks. The Platinum is mostly "unlock everything" plus one boss, so the plan is to learn the rhythm, beat the boss, spend what you earn in the hub, and finish the random collectibles last. How most unlocks are earned is not documented yet, so the order below is a sensible guess `[inferred]`.
 
 **Step 1 — Learn the loop (first runs)**
+
 Play runs until the rhythm feels natural. Use the metronome option that suits you; reviews say there are several. Salvage any junk piles you see, and put your first powerup up to level 3.
 - <img src="images/icons/bronze.png" height="20" alt="Bronze"> A New Home?
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Wrong Button?
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Musical Adept
 
 **Step 2 — Beat Dolores**
+
 The boss trophy. About 5% of players had it two days after launch, so expect it to take real practice rather than just time.
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Arachnophobia
 
 **Step 3 — Spend your haul in the village**
+
 Between runs, visit the village and spend gifts and tokens. Work through weapons, Maestro's combo training and compositions, powerup slots, and the townsfolk. Reviews report that many village visits end empty-handed, so friendship is a slow burn. How the Owl Claw is unlocked is not documented `[unverified]`.
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Weapon Master
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Maestro's Favorite
@@ -45,6 +48,7 @@ Between runs, visit the village and spend gifts and tokens. Work through weapons
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Speading Wings
 
 **Step 4 — Cleanup, then the Platinum**
+
 The random parts go last: pick up every plugin at least once and find the remaining lost scrubs. Keep running; each run is another chance at the missing ones. The Platinum unlocks with the last one.
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Customization Fiend
 - <img src="images/icons/gold.png" height="20" alt="Gold"> Friendly Neighbourhood Puppets
